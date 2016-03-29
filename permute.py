@@ -182,6 +182,7 @@ def checkWord(phrase, spaces, answers):
 #that leads to leaves that are not English words, e.g. "qz..." trees
 #will obviously not work so we don't waste time DFS-ing it to the end
 def checkWordPrefix(prefix):
+	pass
 
 #given a duration in seconds, return a nice string representation
 #e.g. xx seconds, or yy minutes xx seconds, or zz hours yy minutes xx seconds
